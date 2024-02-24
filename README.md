@@ -1,3 +1,11 @@
+The Split Bill application. The app efficiently handles the
+fair division of expenses within a group. Users can simply
+select options, input financial details, and designate
+payers, with the app instantly calculating and displaying
+the outcome. Additionally, a user-friendly 'Add Friend'
+feature allows for the inclusion of new participants in the
+bill-splitting process.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

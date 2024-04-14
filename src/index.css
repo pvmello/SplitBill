@@ -196,7 +196,8 @@ form h2 {
   }
 
   .sidebar li img {
-    grid-row: span 7; /*for smaller screens*/
+    width: 48px;
+    height: 48px;
   }
 
   .sidebar li .button {
